@@ -1,7 +1,10 @@
-# test coverage for  [angular-ui-router (v0.4.2)](http://angular-ui.github.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-ui-router.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-ui-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-ui-router.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-ui-router)
+# npmtest-angular-ui-router
+
+#### basic test coverage for  [angular-ui-router (v0.4.2)](http://angular-ui.github.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-angular-ui-router.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular-ui-router) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular-ui-router.svg)](https://travis-ci.org/npmtest/node-npmtest-angular-ui-router)
+
 #### State-based routing for AngularJS
 
-[![NPM](https://nodei.co/npm/angular-ui-router.png?downloads=true)](https://www.npmjs.com/package/angular-ui-router)
+[![NPM](https://nodei.co/npm/angular-ui-router.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-ui-router)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-angular-ui-router/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-angular-ui-router/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-angular-ui-router/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angular-ui-router/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angular-ui-router/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-angular-ui-router/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-angular-ui-router/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-angular-ui-router/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-angular-ui-router/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-angular-ui-router/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-angular-ui-router%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-angular-ui-router/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-angular-ui-router/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-angular-ui-router/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-angular-ui-router%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-angular-ui-router/build/test-report.html](https://npmtest.github.io/node-npmtest-angular-ui-router/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-angular-ui-router/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-angular-ui-router/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-ui-router/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-angular-ui-router/build/screenCapture.npmPackageListing.svg)
 
@@ -32,12 +41,10 @@
     "contributors": [
         {
             "name": "Nate Abele",
-            "email": "nate@radify.io",
             "url": "https://github.com/nateabele"
         },
         {
             "name": "Chris Thielen",
-            "email": "christhielen@gmail.com",
             "url": "https://github.com/christopherthielen"
         },
         {
@@ -96,21 +103,17 @@
     "main": "release/angular-ui-router.js",
     "maintainers": [
         {
-            "name": "nateabele",
-            "email": "nate.abele@gmail.com"
+            "name": "nateabele"
         },
         {
-            "name": "ProLoser",
-            "email": "proloser@hotmail.com"
+            "name": "ProLoser"
         },
         {
-            "name": "christopherthielen",
-            "email": "christopherthielen@sandgnat.com"
+            "name": "christopherthielen"
         }
     ],
     "name": "angular-ui-router",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular-ui/ui-router.git"
